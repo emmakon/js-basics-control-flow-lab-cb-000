@@ -16,10 +16,10 @@ function ternaryCheckCity(isNYC){
 
 function switchOnCharmFromTip(tip){
   switch(tip) {
-    case 'generous':
+    case === 'generous':
       'Thank you so much';
       break;
-    case 'not as generous':
+    case === 'not as generous':
       'Thank you.';
       break;
     default :
