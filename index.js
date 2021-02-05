@@ -1,5 +1,6 @@
 function scuberGreetingForFeet(){
   // Write your code here!
+  if ()
 }
 
 function ternaryCheckCity(){
