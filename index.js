@@ -2,9 +2,12 @@ function scuberGreetingForFeet(someValue){
   // Write your code here!
   if (someValue <= 400) {
     return 'This one is on me!';
+} else if (someValue > 2000) {
+  return 'I will gladly take your thirty bucks.'
+} else if (somevalue > 2500) {
+  return 'No can do.'
 }
 
-return someValue;
 }
 
 function ternaryCheckCity(){
