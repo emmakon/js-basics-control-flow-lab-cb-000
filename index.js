@@ -10,8 +10,8 @@ function scuberGreetingForFeet(someValue){
 
 }
 
-function ternaryCheckCity(){
-  
+function ternaryCheckCity(isNYC){
+  return isNYC
 }
 
 function switchOnCharmFromTip(){
